@@ -1,1 +1,1 @@
-pandora-chatgpt[cloud]
+sdos-chatgpt[cloud]
