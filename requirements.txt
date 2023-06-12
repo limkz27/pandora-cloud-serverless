@@ -1,1 +1,1 @@
-sdos-chatgpt[cloud]
+chatgpt[cloud]
