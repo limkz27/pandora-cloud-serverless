@@ -1,1 +1,1 @@
-chatgpt[cloud]
+clone-chatgpt[cloud]
